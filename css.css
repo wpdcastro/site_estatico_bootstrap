@@ -1,0 +1,30 @@
+body
+{
+	background-color: #000000 !important;
+}
+
+.navbar {
+   background: transparent !important;
+}
+
+#anuncio1 {
+	background-color: #686868;
+	width: 85%; 
+	height: 85%;
+	position: absolute;
+    left: auto;
+}
+
+#anuncio2 {
+	background-color: blue;
+	width: 85%; 
+	height: 85%;
+	position: absolute;
+    left: auto;
+}
+
+#anuncio3 {
+	background-color: #686868;
+	width: 100%; 
+	height: 40%;
+}
